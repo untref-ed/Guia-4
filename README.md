@@ -17,5 +17,5 @@ C – Dibuje cómo queda el árbol resultante del punto B para la baja de la cla
 
 ![Arbol 2][def2]
 
-[def1]: imagenes/ArbolB1.png
-[def2]: imagenes/ArbolB2.png
+[def1]: imagenesGuia4/ArbolB1.png
+[def2]: imagenesGuia4/ArbolB2.png
