@@ -8,14 +8,14 @@
 A – Dibuje cómo queda el árbol resultante para el alta de las claves 25, 12 y 10.
 B – Dibuje cómo queda el árbol resultante del punto A para la baja de la claves 30, 35 y finalmente 28.
 
-![ArbolB+1][def1]
+![Arbol 1][def1]
 
 4. Dado el árbol B+ de abajo, que puede tener hasta 4 claves en sus nodos:
 A – Dibuje cómo queda el árbol resultante para el alta de la clave 100.
 B – Dibuje cómo queda el árbol resultante del punto A para la baja de la clave 599 y 636.
 C – Dibuje cómo queda el árbol resultante del punto B para la baja de la clave 534.
 
-![ArbolB+2][def2]
+![Arbol 2][def2]
 
 [def1]: imagenes/ArbolB1.png
 [def2]: imagenes/ArbolB2.png
